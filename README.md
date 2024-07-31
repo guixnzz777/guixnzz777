@@ -1,16 +1,16 @@
-## Hi there 👋
+## Welcome to my profile!! 💚
 
-<!--
-**guixnzz777/guixnzz777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Guilherme, however you can call me Gui
 
-Here are some ideas to get you started:
+- I'm 15 years old
+- I'm brazilian
+- I'm studying through the "Alura" platform
+- I'd love some tips on how to improve my projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Anyone can send me an email or a direct on instagram:
+
+📭: 00001134094139sp@al.educacao.sp.gov.br
+
+@guixnzz._
+
+![](https://media1.tenor.com/m/RUGGdovmONkAAAAd/dance-dancing.gif)
