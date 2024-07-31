@@ -1,6 +1,6 @@
 ## Welcome to my profile!! 💚
 
-My name is Guilherme, however you can call me Gui
+My name is Guilherme, however you can call me Gui!
 
 - I'm 15 years old
 - I'm brazilian
